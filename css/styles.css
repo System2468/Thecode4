@@ -1,0 +1,91 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+  }
+  
+  h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+  }
+  
+  h2 {
+    color: #66BFBF;
+    font-family: 'Englebert', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+  }
+  
+  h3 {
+    color: #11999E;
+    font-family: 'Syncopate', sans-serif;
+  }
+  
+  p {
+    color: #66BFBF;
+  }
+  
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1;
+  }
+  
+  
+  /*shit is hard as fuck will look for some more ideas*/
+  /*have to find a solution why the stupid image is completely wrapping the text*/
+  .christmas {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  
+  .clorox {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+  
+  .picofme {
+    width: 200px;
+    height: 200px;
+    border-radius: 40%;
+  }
+  
+  .top-container {
+    background-color: #CDDEFF; 
+    position: relative;
+    padding-top: 100px;
+  }
+  
+  .middle-container {
+    margin: 100px 0;
+  }
+  
+  .bottom-container {
+    color: #11999E;
+  }
+  
+  .pro {
+    text-decoration: underline;
+  }
+  
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+  }
+  
+  .bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+  }
+  
+  
